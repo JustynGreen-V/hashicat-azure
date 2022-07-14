@@ -6,5 +6,5 @@ module "network" {
   name     = "my-resources"
   resource_group_name = "example"
   location = "East US"
-  
+  }
 }
